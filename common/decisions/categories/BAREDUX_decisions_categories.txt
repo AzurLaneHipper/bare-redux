@@ -1,0 +1,19 @@
+#偏执度
+BAREDUX_Test_categories = {
+
+	priority = 1001
+
+	icon = generic
+
+	#scripted_gui = TRI_paranoia_system_ui
+
+	allowed = {
+		is_debug = yes
+	}
+
+	visible = {
+		is_debug = yes
+	}
+
+	visible_when_empty = yes
+}

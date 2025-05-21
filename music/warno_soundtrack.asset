@@ -1,0 +1,253 @@
+##### WARNO
+
+music = {
+	name = "warno_Born_A_Hero"
+	file = "warno/warno_Born_A_Hero.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_brooding_thoughts"
+	file = "warno/warno_brooding_thoughts.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_canyon"
+	file = "warno/warno_canyon.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Clusters_Of_Desolation"
+	file = "warno/warno_Clusters_Of_Desolation.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_crime_scene_investigation"
+	file = "warno/warno_crime_scene_investigation.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Dawn_On_Glendale"
+	file = "warno/warno_Dawn_On_Glendale.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Depiction_Of_Fear"
+	file = "warno/warno_Depiction_Of_Fear.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Dimensional_Pulse"
+	file = "warno/warno_Dimensional_Pulse.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_divine_inspiration"
+	file = "warno/warno_divine_inspiration.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Floating_Consciousness"
+	file = "warno/warno_Floating_Consciousness.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_get_together_2"
+	file = "warno/warno_get_together_2.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_global_lockdown"
+	file = "warno/warno_global_lockdown.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Hollywood_Life"
+	file = "warno/warno_Hollywood_Life.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_I_Am_Enough"
+	file = "warno/warno_I_Am_Enough.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Indifferent"
+	file = "warno/warno_Indifferent.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_into_the_unknown"
+	file = "warno/warno_into_the_unknown.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_lap_time"
+	file = "warno/warno_lap_time.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_lets_go"
+	file = "warno/warno_lets_go.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Light_Grid"
+	file = "warno/warno_Light_Grid.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Matrix_One"
+	file = "warno/warno_Matrix_One.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Miami_Skies"
+	file = "warno/warno_Miami_Skies.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Midnight_Runaway"
+	file = "warno/warno_Midnight_Runaway.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_mysteries"
+	file = "warno/warno_mysteries.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Peace_Within"
+	file = "warno/warno_Peace_Within.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_quiet_discovery"
+	file = "warno/warno_quiet_discovery.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_raging_burn"
+	file = "warno/warno_raging_burn.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Ready_For_The_Count"
+	file = "warno/warno_Ready_For_The_Count.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Rise_Forever"
+	file = "warno/warno_Rise_Forever.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Rock_Star"
+	file = "warno/warno_Rock_Star.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_sheer_drop"
+	file = "warno/warno_sheer_drop.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_silicon_tribes"
+	file = "warno/warno_silicon_tribes.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_synchronicity"
+	file = "warno/warno_synchronicity.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Things_Are_Stranger"
+	file = "warno/warno_Things_Are_Stranger.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_third_degree"
+	file = "warno/warno_third_degree.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_through_the_night"
+	file = "warno/warno_through_the_night.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_triptidon_sinful"
+	file = "warno/warno_triptidon_sinful.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Winged_Hussars"
+	file = "warno/warno_Winged_Hussars.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Bauhaus_Division"
+	file = "warno/warno_Bauhaus_Division.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_When_Night_Comes"
+	file = "warno/warno_When_Night_Comes.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_For_Honor_And_Country"
+	file = "warno/warno_For_Honor_And_Country.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Aviator"
+	file = "warno/warno_Aviator.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "warno_Digital_Warfare"
+	file = "warno/warno_Digital_Warfare.ogg"
+	volume = 0.58
+}

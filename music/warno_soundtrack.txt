@@ -1,0 +1,169 @@
+music_station = "warno"
+
+music = {
+	song = "warno_Born_A_Hero"
+}
+
+music = {
+	song = "warno_brooding_thoughts"
+}
+
+music = {
+	song = "warno_canyon"
+}
+
+music = {
+	song = "warno_Clusters_Of_Desolation"
+}
+
+music = {
+	song = "warno_crime_scene_investigation"
+}
+
+music = {
+	song = "warno_Dawn_On_Glendale"
+}
+
+music = {
+	song = "warno_Depiction_Of_Fear"
+}
+
+music = {
+	song = "warno_Dimensional_Pulse"
+}
+
+music = {
+	song = "warno_divine_inspiration"
+}
+
+music = {
+	song = "warno_Floating_Consciousness"
+}
+
+music = {
+	song = "warno_get_together_2"
+}
+
+music = {
+	song = "warno_global_lockdown"
+}
+
+music = {
+	song = "warno_Hollywood_Life"
+}
+
+music = {
+	song = "warno_I_Am_Enough"
+}
+
+music = {
+	song = "warno_Indifferent"
+}
+
+music = {
+	song = "warno_into_the_unknown"
+}
+
+music = {
+	song = "warno_lap_time"
+}
+
+music = {
+	song = "warno_lets_go"
+}
+
+music = {
+	song = "warno_Light_Grid"
+}
+
+music = {
+	song = "warno_Matrix_One"
+}
+
+music = {
+	song = "warno_Miami_Skies"
+}
+
+music = {
+	song = "warno_Midnight_Runaway"
+}
+
+music = {
+	song = "warno_mysteries"
+}
+
+music = {
+	song = "warno_Peace_Within"
+}
+
+music = {
+	song = "warno_quiet_discovery"
+}
+
+music = {
+	song = "warno_raging_burn"
+}
+
+music = {
+	song = "warno_Ready_For_The_Count"
+}
+
+music = {
+	song = "warno_Rise_Forever"
+}
+
+music = {
+	song = "warno_Rock_Star"
+}
+
+music = {
+	song = "warno_sheer_drop"
+}
+
+music = {
+	song = "warno_silicon_tribes"
+}
+
+music = {
+	song = "warno_synchronicity"
+}
+
+music = {
+	song = "warno_Things_Are_Stranger"
+}
+
+music = {
+	song = "warno_third_degree"
+}
+
+music = {
+	song = "warno_through_the_night"
+}
+
+music = {
+	song = "warno_triptidon_sinful"
+}
+
+music = {
+	song = "warno_Winged_Hussars"
+}
+
+music = {
+	song = "warno_Bauhaus_Division"
+}
+
+music = {
+	song = "warno_When_Night_Comes"
+}
+
+music = {
+	song = "warno_For_Honor_And_Country"
+}
+
+music = {
+	song = "warno_Aviator"
+}
+
+music = {
+	song = "warno_Digital_Warfare"
+}
