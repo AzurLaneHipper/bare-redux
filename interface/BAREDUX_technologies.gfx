@@ -1,0 +1,6 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_baredux_cavalry_tech_medium"
+		texturefile = "gfx/interface/technologies/infantry/baredux_cavalry_tech.dds"
+	}
+}

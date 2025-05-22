@@ -1,33 +1,41 @@
 technologies = {
 
-	@1918 = 0
-	@1924 = 1
-	@1936 = 2
-	@1938 = 4
-	@1939 = 6
-	@1940 = 8
-	@1941 = 10
-	@1942 = 12
-	@1943 = 14
-	@1944 = 16
-	@1945 = 18
-	@1946 = 20
-
 	baredux_cavalry_tech = {
 
 		research_cost = 1
 
-		# cannot research#
+		folder = {
+			name = infantry_folder
+			position = {
+				x = -4
+				y = -1
+			}
+		}
+
 		#TODO reput it in infantry tech tree
 		allow = {
-			always = no
+			#custom_trigger_tooltip = {
+			#	tooltip = bare_this_is_just_joke_tt		
+				#tag = TRI
+			#	always = no
+			#}
+			OR = {
+				tag = TRI
+				tag = GEH
+				tag = CEN
+			}
+		}
+		
+		dependencies = {
+			T1_infantry_weapon = 1
 		}
 
 		enable_subunits = {
 			cavalry
 		}	
 
-		#If you change these
-		#Change the custom tooltip too: HUN_light_infantry_divisions_doctrine_effect
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }

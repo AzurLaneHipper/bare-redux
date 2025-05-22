@@ -1,0 +1,103 @@
+##### delta_force
+
+music = {
+	name = "Delta_Force_2035"
+	file = "delta_force/Delta_Force_2035.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Delta_Force_Battlefield"
+	file = "delta_force/Delta_Force_Battlefield.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "In_The_Summer"
+	file = "delta_force/In_The_Summer.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Making_Legends"
+	file = "delta_force/Making_Legends.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Operation_Protector"
+	file = "delta_force/Operation_Protector.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Journey_s_Epic_Highpeak"
+	file = "delta_force/Journey_s_Epic_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Dust_and_Triumph_Highpeak"
+	file = "delta_force/Dust_and_Triumph_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Leave_No_Man_Behind_Highpeak"
+	file = "delta_force/Leave_No_Man_Behind_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Rise_of_the_Iron_Highpeak"
+	file = "delta_force/Rise_of_the_Iron_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Steel_Requiem_Highpeak"
+	file = "delta_force/Steel_Requiem_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "The_Burden_of_Victory_Highpeak"
+	file = "delta_force/The_Burden_of_Victory_Highpeak.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Doctor_Prometheus"
+	file = "delta_force/Doctor_Prometheus.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Warlord_Raees"
+	file = "delta_force/Warlord_Raees.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Captain_Sayid"
+	file = "delta_force/Captain_Sayid.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Commander_Desmoulins"
+	file = "delta_force/Commander_Desmoulins.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Wolf_Dawn"
+	file = "delta_force/Wolf_Dawn.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "Take_It_All"
+	file = "delta_force/Take_It_All.ogg"
+	volume = 0.58
+}

@@ -1,0 +1,14 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_warno_album_art"
+		texturefile = "gfx/music_station/warno_album_art.dds"
+		noOfFrames = 2
+	}	
+
+	spriteType = {
+		name = "GFX_delta_force_album_art"
+		texturefile = "gfx/music_station/delta_force_album_art.dds"
+		noOfFrames = 2
+	}
+}

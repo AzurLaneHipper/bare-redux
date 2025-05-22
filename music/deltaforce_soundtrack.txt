@@ -1,0 +1,69 @@
+music_station = "deltaforce"
+
+music = {
+	song = "Delta_Force_2035"
+}
+
+music = {
+	song = "Delta_Force_Battlefield"
+}
+
+music = {
+	song = "In_The_Summer"
+}
+
+music = {
+	song = "Making_Legends"
+}
+
+music = {
+	song = "Operation_Protector"
+}
+
+music = {
+	song = "Journey_s_Epic_Highpeak"
+}
+
+music = {
+	song = "Dust_and_Triumph_Highpeak"
+}
+
+music = {
+	song = "Leave_No_Man_Behind_Highpeak"
+}
+
+music = {
+	song = "Rise_of_the_Iron_Highpeak"
+}
+
+music = {
+	song = "Steel_Requiem_Highpeak"
+}
+
+music = {
+	song = "The_Burden_of_Victory_Highpeak"
+}
+
+music = {
+	song = "Doctor_Prometheus"
+}
+
+music = {
+	song = "Warlord_Raees"
+}
+
+music = {
+	song = "Captain_Sayid"
+}
+
+music = {
+	song = "Commander_Desmoulins"
+}
+
+music = {
+	song = "Wolf_Dawn"
+}
+
+music = {
+	song = "Take_It_All"
+}
