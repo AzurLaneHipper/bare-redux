@@ -45,10 +45,6 @@ music = {
 }
 
 music = {
-	song = "Doctor_Prometheus"
-}
-
-music = {
 	song = "Warlord_Raees"
 }
 
