@@ -1,5 +1,5 @@
-BAREDUX_Test_categories = {
-	BAREDUX_Test_cavalry_gui = {
+BAREXP_Test_categories = {
+	BAREXP_Test_cavalry_gui = {
 		visible = {
 			always = yes
 			tag = TRI
@@ -7,7 +7,7 @@ BAREDUX_Test_categories = {
 		complete_effect = {
 			TRI = {
 				set_technology = {
-					baredux_cavalry_tech = 1
+					BAREXP_cavalry_tech = 1
 				}
 				load_oob = "TRI_cavalry"
 			}

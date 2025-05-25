@@ -1,5 +1,5 @@
 #偏执度
-BAREDUX_Test_categories = {
+BAREXP_Test_categories = {
 
 	priority = 1001
 

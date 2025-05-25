@@ -1,0 +1,11 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ideology_Progressivism_Trinity_Nagisa_type"
+		texturefile = "gfx/interface/ideologies/Progressivism_Trinity_Nagisa_type.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_Mysticism_Arius_Beatrice_type"
+		texturefile = "gfx/interface/ideologies/Mysticism_Arius_Beatrice_type.dds"
+	}
+}

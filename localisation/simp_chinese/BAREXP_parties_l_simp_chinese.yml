@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ Progressivism_ideology: "进步主义"
+ Progressivism_ideology_noun: "进步主义"
+ Progressivism_ideology_desc: "进步主义"
+ #Progressivism_ideology_desc: ""§Y进步主义§!\n--------\n进步主义是一种在基沃托斯新近兴起的思想，信奉它的学生们认为规则应当与时俱进，以适配时代的变化。换言之，进步主义者要求学园的管理者们回应其成员的诉求，并在这一过程中实现广泛的学园正义。\n------------\n§L“变革是这个时代的正义。”§!""
+ Progressivism_Trinity_Nagisa_type: "桐藤渚模式"
+ Progressivism_Trinity_Nagisa_type_desc: "§Y桐藤渚模式§!\n--------\n桐藤渚模式代表着圣三一学园的领导者们对于改革的思考。其支持者们认为，圣三一长久以来的派系斗争和身份歧视必须得到改变，但与此同时，也必须确保圣三一政治格局的稳定。因此，该模式追求在现有的茶话会框架下实施进步主义措施，以期在不造成混乱的情况下，完成对既有规则的改革。\n\n尽管如此，该模式仍经受考验：温和的改革势必缺乏核心推动力，若要达成目的，桐藤渚和她的支持者们必须寻求更多政治上的盟友。\n------------\n§G“崭新航线，但要平稳航行。”§!\n\n\n§Y权力机关：茶话会§!\n--------\n茶话会是缔造圣三一的『第一次公会议』所确立的权力机构。它由最具影响力的三个派系，§G菲利乌斯§!、§R帕特尔§!以及§Y桑库特斯§!组成。因此，茶话会所作出的决定，即代表三个派系所共同做出的决定，在这一基础上，几乎鲜有政治力量，能够违抗茶话会的意志。\n\n根据茶话会的制度，茶话会的首席，由三个派系的领袖轮流出任。"
+ TRI_Progressivism_ideology_party: "菲利乌斯派"
+ TRI_Progressivism_ideology_party_long: "茶话会-菲利乌斯派"
+ 
+
+ Mysticism_ideology: "神秘主义"
+ Mysticism_ideology_noun: "神秘主义"
+ Mysticism_ideology_desc: "神秘主义"
+
+ Mysticism_Arius_Beatrice_type: "贝阿多莉切之幕"
+ Mysticism_Arius_Beatrice_type_desc: "§Y贝阿多莉切之幕§!\n--------\n贝阿多莉切在阿里乌斯所实施的统治，是一种将军事主义与神秘主义结合起来的高压统治模式。其核心是在神秘主义指导下的一种信仰，该信仰的教徒认为存在一种作为自身终极使命的崇高路途，并且将自身所受的苦难描述为崇高路途的必要考验——这一共同认知也是维持高压统治的关键。\n\n当然，抛开所谓的神秘主义来看，这就是一种服务于独裁统治的洗脑式宣传。一旦其信众察觉所谓“终极目的”无法实现，那么这样的统治立刻就会土崩瓦解。\n------------\n§R“不论如何标榜，没有谎言能千秋万代。”§!"
+
+ ARI_Mysticism_ideology_party: "崇高路途"
+ ARI_Mysticism_ideology_party_long: "崇高路途-夫人独裁"
+ ##
+ BAREXP_ruling_party: "[ROOT.GetRulingPartyLong]"

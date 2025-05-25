@@ -1,6 +1,6 @@
 technologies = {
 
-	baredux_cavalry_tech = {
+	BAREXP_cavalry_tech = {
 
 		research_cost = 1
 

@@ -244,7 +244,7 @@ guiTypes = {
 
 			##SUB CHANGED
 			gridboxtype = {
-				name = "baredux_cavalry_tech_tree"
+				name = "BAREXP_cavalry_tech_tree"
 				position = { x = 300 y = 420 }
 				slotsize = { width = 70 height = 70 }
 				format = "LEFT"
@@ -3452,14 +3452,9 @@ guiTypes = {
 		}
 	}
 
-
-
-
-	
-
 	containerWindowType = {
 		name = "techtree_ifv_folder_item"
-		position = { x=-56 y=-7 }
+		position = { x=-55 y=0 }
 		size = { width = 183 height = 84 }
 		clipping = no
 
@@ -3476,15 +3471,14 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 
-
 		instantTextBoxType = {
 			name = "Name"
-			position = { x = 3 y = -3 }
+			position = { x = 6 y = -1 }
 			textureFile = ""
 			font = "hoi_20bs"
 			borderSize = {x = 4 y = 4}
 			text = "Happy-Go-Lucky-Tank"
-			maxWidth = 160
+			maxWidth = 156
 			maxHeight = 20
 			fixedsize = yes
 			format = left
@@ -3511,7 +3505,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "sub_technology_slot_0"
-			position = { x=151 y=1 }
+			position = { x=181 y=1 }
 			size = { width = 35 height = 26 }
 			clipping = no
 
@@ -3530,7 +3524,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "sub_technology_slot_1"
-			position = { x=151 y=28 }
+			position = { x=181 y=28 }
 			size = { width = 35 height = 26 }
 			clipping = no
 
@@ -3549,7 +3543,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "sub_technology_slot_2"
-			position = { x=151 y=56 }
+			position = { x=181 y=56 }
 			size = { width = 35 height = 26 }
 			clipping = no
 

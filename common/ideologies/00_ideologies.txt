@@ -1,0 +1,85 @@
+ideologies = {
+	
+	no_ideology = {
+		types = {
+		
+			no_ideology_type  = {
+				color = { 192 192 192 }
+			}
+		}
+		color = { 192 192 192 }
+
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			
+		}
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes
+	}
+
+	##进步主义
+	Progressivism_ideology = {
+		types = {
+			Progressivism_Trinity_Nagisa_type  = {
+				can_be_randomly_selected = no
+			}
+		}
+		color = { 108 160 220 }
+
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			
+		}
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes
+	}
+
+	##
+	Mysticism_ideology = {
+		types = {
+			Mysticism_Arius_Beatrice_type  = {
+                can_be_randomly_selected = no
+			}
+		}
+		color = { 128 0 128 }
+
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			
+		}
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes
+	}
+
+
+}
