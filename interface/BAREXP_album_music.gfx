@@ -11,4 +11,10 @@ spriteTypes = {
 		texturefile = "gfx/music_station/delta_force_album_art.dds"
 		noOfFrames = 2
 	}
+
+	spriteType = {
+		name = "GFX_sd2_album_art"
+		texturefile = "gfx/music_station/sd2_album_art.dds"
+		noOfFrames = 2
+	}
 }

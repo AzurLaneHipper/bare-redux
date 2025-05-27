@@ -1,0 +1,49 @@
+music_station = "sd2"
+
+music = {
+	song = "sd2_Aeons"
+}
+
+music = {
+	song = "sd2_An_Instant_Moment"
+}
+
+music = {
+	song = "sd2_Approaching_The_Summit"
+}
+
+music = {
+	song = "sd2_Distance_Between"
+}
+
+music = {
+	song = "sd2_Final_Conclusion"
+}
+
+music = {
+	song = "sd2_Generation"
+}
+
+music = {
+	song = "sd2_Ignition"
+}
+
+music = {
+	song = "sd2_Nexus"
+}
+
+music = {
+	song = "sd2_Prime_Directive"
+}
+
+music = {
+	song = "sd2_Radiant_Flux"
+}
+
+music = {
+	song = "sd2_Reaching_Horizon"
+}
+
+music = {
+	song = "sd2_Supervoid"
+}

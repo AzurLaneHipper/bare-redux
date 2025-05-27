@@ -1,0 +1,62 @@
+##### STEEL DIVISION 2 #####
+
+music = {
+	name = "sd2_Aeons"
+	file = "sd2/sd2_Aeons.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_An_Instant_Moment"
+	file = "sd2/sd2_An_Instant_Moment.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Approaching_The_Summit"
+	file = "sd2/sd2_Approaching_The_Summit.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Distance_Between"
+	file = "sd2/sd2_Distance_Between.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Final_Conclusion"
+	file = "sd2/sd2_Final_Conclusion.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Generation"
+	file = "sd2/sd2_Generation.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Ignition"
+	file = "sd2/sd2_Ignition.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Nexus"
+	file = "sd2/sd2_Nexus.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Prime_Directive"
+	file = "sd2/sd2_Prime_Directive.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Radiant_Flux"
+	file = "sd2/sd2_Radiant_Flux.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Reaching_Horizon"
+	file = "sd2/sd2_Reaching_Horizon.ogg"
+	volume = 0.58
+}
+music = {
+	name = "sd2_Supervoid"
+	file = "sd2/sd2_Supervoid.ogg"
+	volume = 0.58
+}
