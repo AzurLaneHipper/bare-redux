@@ -1,0 +1,362 @@
+scripted_gui = {
+	start_menu = {
+		context_type = player_context
+		window_name = "BAREXP_startup_intro_menu"
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up = 0
+			}
+		}
+		triggers = {
+			mod_info_click_enabled = {
+				check_variable = {
+					var = show_up_info
+					value = 0
+					compare = equals
+				}
+			}
+			bare_system_info_click_enabled = {
+				check_variable = {
+					var = show_up_bare_system_info
+					value = 0
+					compare = equals
+				}
+			}
+			barexp_change_info_click_enabled = {
+				check_variable = {
+					var = show_up_barexp_change_info
+					value = 0
+					compare = equals
+				}
+			}
+			credit_click_enabled = {
+				check_variable = {
+					var = show_up_credit
+					value = 0
+					compare = equals
+				}
+			}
+			country_info_click_enabled = {
+				check_variable = {
+					var = show_up_country
+					value = 0
+					compare = equals
+				}
+			}
+		}
+		effects = {
+			exitbutton_start_click = {
+				set_variable = {
+					show_up = 1
+				}
+				# set_variable = {
+				# 	show_up_info = 0
+				# }
+				# set_variable = {
+				# 	show_up_bare_system_info = 0
+				# }
+				# set_variable = {
+				# 	show_up_barexp_change_info = 0@
+				# }
+				# set_variable = {
+				# 	show_up_credit = 0
+				# }
+				# set_variable = {
+				# 	show_up_country = 0
+				# }
+			}
+
+			continue_button_start_click = {
+				set_variable = {
+					show_up = 1
+				}
+				# set_variable = {
+				# 	show_up_info = 0
+				# }
+				# set_variable = {
+				# 	show_up_bare_system_info = 0
+				# }
+				# set_variable = {
+				# 	show_up_barexp_change_info = 0@
+				# }
+				# set_variable = {
+				# 	show_up_credit = 0
+				# }
+				# set_variable = {
+				# 	show_up_country = 0
+				# }
+			}
+
+			mod_info_click = {
+				set_variable = {
+					show_up_info = 1
+				}
+				set_variable = {
+					show_up_bare_system_info = 0
+				}
+				set_variable = {
+					show_up_barexp_change_info = 0
+				}
+				set_variable = {
+					show_up_credit = 0
+				}
+				set_variable = {
+					show_up_country = 0
+				}
+				##彻底关闭默认界面##
+				set_variable = {
+					show_up_country_fake = 1
+				}
+			}
+			bare_system_info_click = {
+				set_variable = {
+					show_up_bare_system_info = 1
+				}
+				set_variable = {
+					show_up_info = 0
+				}
+				set_variable = {
+					show_up_barexp_change_info = 0
+				}
+				set_variable = {
+					show_up_credit = 0
+				}
+				set_variable = {
+					show_up_country = 0
+				}
+				##彻底关闭默认界面##
+				set_variable = {
+					show_up_country_fake = 1
+				}
+			}
+			barexp_change_info_click = {
+				set_variable = {
+					show_up_bare_system_info = 0
+				}
+				set_variable = {
+					show_up_info = 0
+				}
+				set_variable = {
+					show_up_barexp_change_info = 1
+				}
+				set_variable = {
+					show_up_credit = 0
+				}
+				set_variable = {
+					show_up_country = 0
+				}
+				##彻底关闭默认界面##
+				set_variable = {
+					show_up_country_fake = 1
+				}
+			}
+			credit_click = {
+				set_variable = {
+					show_up_bare_system_info = 0
+				}
+				set_variable = {
+					show_up_info = 0
+				}
+				set_variable = {
+					show_up_barexp_change_info = 0
+				}
+				set_variable = {
+					show_up_credit = 1
+				}
+				set_variable = {
+					show_up_country = 0
+				}
+				##彻底关闭默认界面##
+				set_variable = {
+					show_up_country_fake = 1
+				}
+			}
+			country_info_click = {
+				set_variable = {
+					show_up_bare_system_info = 0
+				}
+				set_variable = {
+					show_up_info = 0
+				}
+				set_variable = {
+					show_up_barexp_change_info = 0
+				}
+				set_variable = {
+					show_up_credit = 0
+				}
+				set_variable = {
+					show_up_country = 1
+				}
+				##彻底关闭默认界面##
+				set_variable = {
+					show_up_country_fake = 1
+				}
+			}
+		}
+	}
+	mod_info_start = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "mod_info_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_info = 1
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+		}
+		effects = {
+		}
+		triggers = {
+		}
+	}
+	mod_barexp_original_system_info_start = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "barexp_original_system_info_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_bare_system_info = 1
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+		}
+		effects = {
+		}
+		triggers = {
+		}
+	}
+	mod_barexp_change_info_start = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "barexp_change_info_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_barexp_change_info = 1
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+		}
+		effects = {
+		}
+		triggers = {
+		}
+	}
+	mod_credit_start = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "credits_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_credit = 1
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+		}
+		effects = {
+		}
+		triggers = {
+		}
+	}
+	mod_country_info_start = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "country_info_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_country = 1
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+			BAREXP_poster = {
+				image = "[ROOT.GET_BAREXP_INTRO_MENU_COUNTRY_POSTER]"
+			}
+		}
+		effects = {
+		
+		}
+	}
+	mod_country_info_fake = {
+		parent_window_name = BAREXP_startup_intro_menu
+		context_type = player_context
+		window_name = "country_info_fake_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			is_ai = no
+			check_variable = {
+				show_up_country_fake = 0
+			}
+		}
+		dynamic_lists = {
+		}
+		properties = {
+			FAKE_BAREXP_poster = {
+				image = "[ROOT.GET_BAREXP_INTRO_MENU_COUNTRY_POSTER]"
+			}
+		}
+		effects = {
+		
+		}
+	}
+	open_startup_gui = {
+		context_type = player_context
+		parent_window_token = top_bar
+		window_name = "open_startup_screen_container"
+		ai_enabled = {
+			always = no
+		}
+		visible = {
+			
+		}
+		triggers = {
+			open_startup_screen_button_click_enabled = {
+				check_variable = {
+					var = show_up
+					value = 1
+					compare = equals
+				}
+			}
+		}
+		effects = {
+			open_startup_screen_button_click = {
+				set_variable = {
+					var = show_up
+					value = 0
+				}
+			}
+		}
+	}
+}

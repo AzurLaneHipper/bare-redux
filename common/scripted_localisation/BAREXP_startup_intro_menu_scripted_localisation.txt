@@ -1,0 +1,73 @@
+##注意了！分为标题、描述、评价3个主干！
+##独特结算需要如示例进行独特定义
+##不可以动最下方的DEFAULT文本，这是必须有的默认文本。
+
+defined_text = { #SUPER EVENT TITLES
+    name = GET_BAREXP_INTRO_MENU_COUNTRY_POSTER
+	text = { 
+        trigger = {
+			tag = ALF
+		}
+        localization_key = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_ALF"
+    }
+}
+##国家介绍
+defined_text = {
+	name = GET_BAREXP_INTRO_MENU_COUNTRY_SUMMARY
+	text = {
+		trigger = {
+			tag = ALF
+		}
+		localization_key = BAREXP_COUNTRY_SUMMARY_ALF
+	}
+	
+	text = {
+	    localization_key = BAREXP_COUNTRY_SUMMARY_DEFAULT
+	}
+}
+
+##目标
+defined_text = {
+	name = GET_BAREXP_INTRO_MENU_COUNTRY_TARGET
+	text = {
+		trigger = {
+			tag = ALF
+		}
+		localization_key = BAREXP_COUNTRY_TARGET_ALF
+	}
+	
+	text = {
+	    localization_key = BAREXP_COUNTRY_TARGET_DEFAULT
+	}
+}
+
+##格言
+defined_text = {
+	name = GET_BAREXP_INTRO_MENU_COUNTRY_PATHS
+	text = {
+		trigger = {
+			tag = ALF
+		}
+		localization_key = BAREXP_COUNTRY_PATHS_ALF
+	}
+	
+	text = {
+	    localization_key = BAREXP_COUNTRY_PATHS_DEFAULT
+	}
+}
+
+##按钮
+defined_text = {
+	name = GET_BAREXP_CONTINUE_BUTTON_TEXT
+	##示例：圣三一战胜了阿里乌斯
+	text = {
+		trigger = {
+			tag = ALF
+		}
+		localization_key = BAREXP_CONTINUE_BUTTON_TEXT_ALF
+	}
+	
+	text = {
+	    localization_key = BAREXP_CONTINUE_BUTTON_TEXT_DEFAULT
+	}
+}

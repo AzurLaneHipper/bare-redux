@@ -1,0 +1,16 @@
+BAREXP_Test_categories = {
+
+	priority = 1001
+
+	icon = generic
+
+	allowed = {
+		is_debug = yes
+	}
+
+	visible = {
+		is_debug = yes
+	}
+
+	visible_when_empty = yes
+}

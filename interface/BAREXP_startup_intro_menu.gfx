@@ -1,0 +1,37 @@
+	spriteTypes = { 
+		
+		##这东西是用原版素材搭的
+		spriteType = {
+			name = "GFX_BAREXP_intro_screen_continue_button"
+			texturefile = "gfx/interface/play_button_ready.dds"
+			animation = {
+				animationmaskfile = "gfx/interface/play_button_mask.dds"
+				animationtexturefile = "gfx/interface/unitcontrol/execute_btn_texture3.dds"
+				animationrotation = -90			# -90 clockwise 90 counterclockwise (by default)
+				animationlooping = yes			# yes or no ;)
+				animationtime = 2				# in seconds
+				animationdelay = 0.2			# in seconds
+				animationblendmode = "add"		# add, multiply, overlay
+				animationtype = "scrolling"		# scrolling, rotating, pulsing
+				animationrotationoffset = { x = 0 y = 0 }
+				animationtexturescale = { x = 1 y = 1 }
+			}
+			legacy_lazy_load = no
+		}
+
+		SpriteType = {
+			name = "GFX_startup_intro_menu_bg"
+			texturefile = "gfx/interface/startup_intro/startup_intro_menu_bg.dds"			
+		}
+
+		SpriteType = {
+			name = "GFX_BAREXP_open_startup_intro_button"
+			texturefile = "gfx/interface/startup_intro/BAREXP_open_startup_intro_button.dds"			
+		}
+
+		##poster##
+		SpriteType = {
+			name = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_ALF"
+			texturefile = "gfx/interface/startup_intro/BAREXP_INTRO_MENU_COUNTRY_POSTER_ALF.dds"			
+		}
+	}

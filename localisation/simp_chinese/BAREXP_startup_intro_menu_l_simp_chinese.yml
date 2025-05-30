@@ -1,0 +1,28 @@
+﻿l_simp_chinese:
+ BAREXP_startup_intro_menu_Headline: "自始复新：拓展"
+ BAREXP_modinfo: "模组介绍"
+ BAREXP_countryinfo: "势力介绍"
+ BAREXP_change_info: "拓展内容"
+ BAREXP_original_system_info: "特别机制"
+ BAREXP_credits: "特别鸣谢"
+ BAREXP_continue_button_start: "[ROOT.GET_BAREXP_CONTINUE_BUTTON_TEXT]"
+
+ BAREXP_open_startup_tooltip: "显示模组介绍"
+
+ BAREXP_COUNTRY_NAME: "§Y[ROOT.GetNonIdeologyName]§!"
+ BAREXP_COUNTRY_SUMMARY: "[ROOT.GET_BAREXP_INTRO_MENU_COUNTRY_SUMMARY]"
+ BAREXP_COUNTRY_TARGET: "[ROOT.GET_BAREXP_INTRO_MENU_COUNTRY_TARGET]"
+ BAREXP_COUNTRY_PATHS: "[ROOT.GET_BAREXP_INTRO_MENU_COUNTRY_PATHS]"
+
+BAREXP_CONTINUE_BUTTON_TEXT_DEFAULT: "开始征程"
+
+############################
+###ARIUS LEBERATION FRONT###
+############################
+BAREXP_COUNTRY_SUMMARY_ALF: "§Y势力概况：§!\n流亡者之家是一群失败者所组成的社区，组成这个社区的成员，大多是在阿里乌斯内战后，不愿意接受“夫人”统治的学生们。在反抗失败后，她们在“领袖”的带领下，逃离了地下墓穴，在鱼龙混杂的黑市中建立了流亡者之家，以期有安身立命之所。正如社区的名字所言，她们如今无家可归，是一群蜗居在远方的流浪者——更加令人不安的是，“夫人"的爪牙依然还在追猎着这群流亡者们，总有一天，这处僻静之地也会变为燃烧烈焰的战场。\n\n不过，并非所有流亡者都已经向命运屈服。在这群饱受挫折的学生们之中，敲碎锁链的声音依然在被传递。流亡者们在眺望着她们的家园：她们已经从失败中吸取了教训，并开始着手准备真正的全面反抗。贝阿多莉切的残暴统治终有尽头，到那一天，她们将骑着白色的骏马，重新解放那片属于她们的家园故土……"
+BAREXP_COUNTRY_TARGET_ALF: "§Y目标：§!\n§G重返家园§!\n\n§C站稳脚跟：§!\n - 确保黑市的秩序\n - 消灭紧追不放的猎犬\n - 驱离凯撒集团\n\n§t完成使命：§!\n - 解放阿里乌斯校园\n - 终结与圣三一的历史问题。"
+
+BAREXP_COUNTRY_PATHS_ALF: "§5我们永不言败！§!"
+
+BAREXP_CONTINUE_BUTTON_TEXT_ALF: "解放家园"
+

@@ -30,6 +30,9 @@ ideologies = {
 	##进步主义
 	Progressivism_ideology = {
 		types = {
+			Progressivism_default_type  = {
+
+			}
 			Progressivism_Trinity_Nagisa_type  = {
 				can_be_randomly_selected = no
 			}
@@ -80,6 +83,31 @@ ideologies = {
 
 		ai_neutral = yes
 	}
+    
+	Egalitarianism_ideology = {
+		types = {
+			Egalitarianism_Arius_Will_type  = {
+                can_be_randomly_selected = no
+			}
+		}
+		color = { 255 192 203 }
 
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			
+		}
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes
+	}
 
 }

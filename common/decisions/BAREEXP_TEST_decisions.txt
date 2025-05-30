@@ -13,4 +13,19 @@ BAREXP_Test_categories = {
 			}
 		}
 	}
+
+	BAREXP_startup_gui = {
+		visible = {
+			always = yes
+		}
+		complete_effect = {
+		    set_variable = {
+				show_up = 1
+			}
+
+			set_variable = {
+				show_up_country = 1
+			}
+		}
+	}
 } 

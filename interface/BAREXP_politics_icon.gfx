@@ -8,4 +8,9 @@ spriteTypes = {
 		name = "GFX_ideology_Mysticism_Arius_Beatrice_type"
 		texturefile = "gfx/interface/ideologies/Mysticism_Arius_Beatrice_type.dds"
 	}
+
+	spriteType = {
+		name = "GFX_ideology_Egalitarianism_Arius_Will_type"
+		texturefile = "gfx/interface/ideologies/Egalitarianism_Arius_Will_type.dds"
+	}
 }

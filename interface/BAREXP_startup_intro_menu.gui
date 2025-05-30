@@ -1,0 +1,253 @@
+guiTypes = {
+	containerWindowType = {
+		name = "BAREXP_startup_intro_menu"
+		position = {x=480 y=100}
+		size = { width=1070 height=900 }
+
+		fade_time = 300
+		fade_type = linear
+		moveable = yes
+		
+		background = {
+			name = "Background"
+			spriteType = "GFX_startup_intro_menu_bg"
+		}
+
+		instantTextboxType = {
+			name = "Headline"
+			position = {x = 370 y = 177}
+			font = "hoi_30header"
+			text = "BAREXP_startup_intro_menu_Headline"
+			maxWidth = 500
+			maxHeight = 23
+			format = center
+		}
+		
+		buttonType = {
+			name = "exitbutton_start" 
+			position = {x = 1025 y = 130 }	
+			spriteType = "GFX_closebutton"
+			shortcut = "SPACE"
+			clicksound = click_close
+		}
+
+		buttonType = {
+			name = "continue_button_start" 
+			position = {x = 510 y = 824 }	
+			spriteType = "GFX_BAREXP_intro_screen_continue_button"
+			shortcut = "SPACE"
+			clicksound = click_close
+		}
+
+		instantTextboxType = {
+			name = "continue_button_start_text"
+			position = {x = 510 y = 835 }	
+			font = "hoi_36header"
+			text = "BAREXP_continue_button_start"
+			maxWidth = 241
+			maxHeight = 60
+			format = center
+		}
+
+		ButtonType = {
+			name = "mod_info"
+			position = { x=40 y=185 }
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "BAREXP_modinfo"
+			buttonFont = "hoi_16mbs"
+			clicksound = click_close
+		}
+
+		ButtonType = {
+			name = "country_info"
+			position = { x=40 y=225 }
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "BAREXP_countryinfo"
+			buttonFont = "hoi_16mbs"
+			clicksound = click_close
+		}
+	
+		ButtonType = {
+			name = "barexp_change_info"
+			position = { x=40 y=265 }
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "BAREXP_change_info"
+			buttonFont = "hoi_16mbs"
+			clicksound = click_close
+		}
+
+		ButtonType = {
+			name = "bare_system_info"
+			position = { x=40 y=305 }
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "BAREXP_original_system_info"
+			buttonFont = "hoi_16mbs"
+			clicksound = click_close
+		}
+
+		ButtonType = {
+			name = "credit"
+			position = { x=40 y=345 }
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "BAREXP_credits"
+			buttonFont = "hoi_16mbs"
+			clicksound = click_close
+		}
+	}
+	
+	containerWindowType = {
+		name = "mod_info_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+
+	}
+
+		
+	containerWindowType = {
+		name = "country_info_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+
+		iconType = {
+			name = "BAREXP_poster" 
+			position = {x = 214 y = 220 }
+		}
+
+		instantTextboxType = {
+			name = "Country_Name"
+			position = {x = 370 y = 235}
+			font = "hoi_30header"
+			text = "BAREXP_COUNTRY_NAME"
+			maxWidth = 500
+			maxHeight = 23 
+			format = center
+		}
+		
+		#Put whatever you want about the country here
+		instantTextboxType = {
+			name = "Country_Summary" 
+			position = {x = 240 y = 320}
+			font = "hoi_18mbs"
+			text = "BAREXP_COUNTRY_SUMMARY"
+			maxWidth = 775
+			maxHeight = 500
+			format = left
+		}
+		
+		#Self explanitory
+		instantTextboxType = {
+			name = "Country_TARGET"
+			position = {x = 240 y = 520}
+			font = "hoi_18mbs"
+			text = "BAREXP_COUNTRY_TARGET" 
+			maxWidth = 775
+			maxHeight = 500
+			format = left
+		}
+		
+		#Any other info you think the player should know
+		instantTextboxType = {
+			name = "Country_Other"
+			position = {x = 240 y = 780 }  
+			font = "hoi_24header"  
+			text = "BAREXP_COUNTRY_PATHS"
+			maxWidth = 350
+			maxHeight = 500
+			format = left
+		}
+
+	}
+
+	containerWindowType = { 
+		name = "barexp_change_info_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+	}
+
+	containerWindowType = {
+		name = "barexp_original_system_info_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+		
+	}
+	
+	containerWindowType = {
+		name = "credits_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+
+	}
+
+	containerWindowType = {
+		name = "open_startup_screen_container"
+		size = { width=120 height=120 }
+		orientation = upper_right
+		position = { x = -400 y = 25 }
+		
+
+		buttonType = {
+			name = "open_startup_screen_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = GFX_BAREXP_open_startup_intro_button
+			pdx_tooltip = BAREXP_open_startup_tooltip
+			clicksound = click_close
+			scale = 0.67
+		}
+	}
+
+	#####A FAKE CONTAINER,JUST MAKE SURE COUNTRY INFO IS DEFAULT
+	containerWindowType = {
+		name = "country_info_fake_container"
+		position = {x=0 y=0}
+		size = { width=1070 height=900 }
+
+		iconType = {
+			name = "FAKE_BAREXP_poster" 
+			position = {x = 214 y = 220 }
+		}
+
+		instantTextboxType = {
+			name = "FAKE_Country_Name"
+			position = {x = 370 y = 235}
+			font = "hoi_30header"
+			text = "BAREXP_COUNTRY_NAME"
+			maxWidth = 500
+			maxHeight = 23 
+			format = center
+		}
+		
+		#Put whatever you want about the country here
+		instantTextboxType = {
+			name = "FAKE_Country_Summary" 
+			position = {x = 240 y = 320}
+			font = "hoi_18mbs"
+			text = "BAREXP_COUNTRY_SUMMARY"
+			maxWidth = 775
+			maxHeight = 500
+			format = left
+		}
+		
+		#Self explanitory
+		instantTextboxType = {
+			name = "FAKE_Country_TARGET"
+			position = {x = 240 y = 520}
+			font = "hoi_18mbs"
+			text = "BAREXP_COUNTRY_TARGET" 
+			maxWidth = 775
+			maxHeight = 500
+			format = left
+		}
+		
+		#Any other info you think the player should know
+		instantTextboxType = {
+			name = "FAKE_Country_Other"
+			position = {x = 240 y = 780 }  
+			font = "hoi_24header"  
+			text = "BAREXP_COUNTRY_PATHS"
+			maxWidth = 350
+			maxHeight = 500
+			format = left
+		}
+
+	}
+}
