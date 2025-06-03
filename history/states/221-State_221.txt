@@ -1,0 +1,25 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		1004 3743 4793 6803 6881 7206 7596 10857 10863 10866 
+	}
+	resources = {
+		resources_fe = 10
+	}
+	history = {
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		owner = E07
+		add_core_of=E07
+		add_core_of=A47
+		victory_points = {3743 5}
+    }
+	manpower=346000
+	state_category = large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

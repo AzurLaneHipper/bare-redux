@@ -20,11 +20,22 @@ BAREXP_Test_categories = {
 		}
 		complete_effect = {
 		    set_variable = {
-				show_up = 1
+				show_up = 0
 			}
 
 			set_variable = {
 				show_up_country = 1
+			}
+		}
+	}
+
+	BAREXP_endgame_closing_screen_gui = {
+		visible = {
+			always = yes
+		}
+		complete_effect = {
+		    set_variable = {
+				game_ends_here = 1
 			}
 		}
 	}

@@ -1,0 +1,24 @@
+state={
+	id=217
+	name="STATE_217"
+	provinces={
+		493 1419 2572 2795 5178 5753 6607 9273 9540 10861 10862 
+	}
+	resources = {
+		resources_cm = 20
+	}
+	history = {
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = E04
+		add_core_of=E04
+		add_core_of=A47
+		victory_points = {10861 1}
+    }
+	manpower=98200
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

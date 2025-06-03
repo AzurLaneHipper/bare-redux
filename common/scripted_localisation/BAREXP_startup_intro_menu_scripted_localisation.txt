@@ -2,13 +2,19 @@
 ##独特结算需要如示例进行独特定义
 ##不可以动最下方的DEFAULT文本，这是必须有的默认文本。
 
-defined_text = { #SUPER EVENT TITLES
+defined_text = {
     name = GET_BAREXP_INTRO_MENU_COUNTRY_POSTER
 	text = { 
         trigger = {
 			tag = ALF
 		}
         localization_key = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_ALF"
+    }
+	text = { 
+        trigger = {
+			tag = GEH
+		}
+        localization_key = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_GEH"
     }
 }
 ##国家介绍
@@ -19,6 +25,13 @@ defined_text = {
 			tag = ALF
 		}
 		localization_key = BAREXP_COUNTRY_SUMMARY_ALF
+	}
+
+	text = {
+		trigger = {
+			tag = GEH
+		}
+		localization_key = BAREXP_COUNTRY_SUMMARY_GEH
 	}
 	
 	text = {
@@ -35,6 +48,13 @@ defined_text = {
 		}
 		localization_key = BAREXP_COUNTRY_TARGET_ALF
 	}
+
+	text = {
+		trigger = {
+			tag = GEH
+		}
+		localization_key = BAREXP_COUNTRY_TARGET_GEH
+	}
 	
 	text = {
 	    localization_key = BAREXP_COUNTRY_TARGET_DEFAULT
@@ -49,6 +69,13 @@ defined_text = {
 			tag = ALF
 		}
 		localization_key = BAREXP_COUNTRY_PATHS_ALF
+	}
+
+	text = {
+		trigger = {
+			tag = GEH
+		}
+		localization_key = BAREXP_COUNTRY_PATHS_GEH
 	}
 	
 	text = {
@@ -65,6 +92,13 @@ defined_text = {
 			tag = ALF
 		}
 		localization_key = BAREXP_CONTINUE_BUTTON_TEXT_ALF
+	}
+
+	text = {
+		trigger = {
+			tag = GEH
+		}
+		localization_key = BAREXP_CONTINUE_BUTTON_TEXT_GEH
 	}
 	
 	text = {

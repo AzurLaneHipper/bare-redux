@@ -1,0 +1,10 @@
+E01		= "countries/E01.txt"
+E02		= "countries/E02.txt"
+E03		= "countries/E03.txt"
+E04		= "countries/E04.txt"  ##西街暴力团
+E05		= "countries/E05.txt"  ##自由天空 
+E06		= "countries/E06.txt"  ##收债人协会
+E07		= "countries/E07.txt"  ##咔哒头盔团
+E08		= "countries/E08.txt"  ##黑市安保军
+E09		= "countries/E09.txt"  ##黑市摩托队
+E10		= "countries/E10.txt"  ##黑市平民窟

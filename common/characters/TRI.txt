@@ -105,7 +105,7 @@ characters={
 		}
 
         country_leader = {
-			ideology = no_ideology_type
+			ideology = Progressivism_Trinity_Nagisa_type
 			traits = { missing_leader }
 			expire = "9999.1.1.1"
 			id = -1
@@ -565,7 +565,7 @@ characters={
 		}
 
         country_leader = {
-			ideology = no_ideology_type
+			ideology = Progressivism_Trinity_Nagisa_type
 			traits = { h_loved_sage }
 			expire = "9999.1.1.1"
 			id = -1
@@ -1008,7 +1008,7 @@ characters={
 			}
 		}
 		country_leader = {
-			ideology = no_ideology_type
+			ideology = Progressivism_Trinity_Nagisa_type
 			expire = "9999.1.1.1"
 			id = -1
 		}

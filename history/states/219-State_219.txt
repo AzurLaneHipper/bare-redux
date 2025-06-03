@@ -1,0 +1,20 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		645 697 3890 5628 9515 10753 10767 
+	}
+	history = {
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		owner = E05
+		add_core_of=E05
+		add_core_of=A47
+    }
+	manpower=132000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

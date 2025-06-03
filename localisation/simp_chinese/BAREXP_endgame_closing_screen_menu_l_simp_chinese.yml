@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+ BAREXP_endgame_closing_screen_menu_Headline: "DEMO到此为止"
+
+ BAREXP_ENDGAME_SUMMARY: "[ROOT.GET_BAREXP_ENDGAME_SUMMARY]"
+ BAREXP_ENDGAME_SLOGAN: "[ROOT.GET_BAREXP_ENDGAME_SLOGAN]"
+ BAREXP_endgame_continue_button_text: "[ROOT.GET_BAREXP_ENDGAME_CONTINUE_BUTTON_TEXT]"
+ 
+ BAREXP_ENDGAME_SLOGAN_DEFAULT: "§Y至此，基沃托斯的新秩序即将破晓。§!"
+ BAREXP_ENDGAME_CONTINUE_BUTTON_TEXT_DEFAULT: "结束游玩"
+
+ BAREXP_ENDGAME_THANKS_TITLE: "§Y感谢您的游玩！§!"
+ BAREXP_ENDGAME_THANKS: "感谢您游玩了DEMO的完整内容！不论我们设计了什么内容，如果没有您的游玩，一切都只是竹篮打水。\n\n我们欢迎您加入我们的讨论群，并在社交平台展示您的游玩过程。如果您希望加入我们的制作，请到主菜单的LOGO联系制作组。如果可以，也请关注我们的新内容。我们会持续更新MOD，直至完成包括最终战在内的所有游玩内容。\n\n最后祝您，身体健康！"
+
+ BAREXP_BAREXP_ENDGAME_SUMMARY_DEFAULT: "您已游玩了全部demo内容。"
+ BAREXP_BAREXP_ENDGAME_SUMMARY_TRI_Successful: "伊甸条约已经签署，从杳无人烟的遥远海岸，到繁华的商业区，一个庞大联邦的初啼已响彻整个基沃托斯：更重要的是，这一切并非来自天赐，而是由圣三一与格黑娜的学生靠自己的双手共同铸就。曾经的桎梏如今已成为圣三一学生心中胜利的丰碑，在跨越了艰难险阻后，圣三一不仅在校外达成了外交胜利，亦在校内化解了积压已久的分歧。在新茶话会的领导下，圣三一的学生们正大踏步着前进，畅想着属于她们的美好未来。\n\n当然，不是所有的困难都已经被克服：伊甸条约并非那么稳固、曾经根深蒂固的误解与歧视也未曾尽数离去，对于圣三一未来的领导者们而言，化为瓦砾的古圣堂依然是一种警告。但不论前路如何，理想主义者点燃的火焰已经照亮了黑暗的边陲，圣三一已经准备就绪，并且——充满自信。"
+
+ BAREXP_BAREXP_ENDGAME_SUMMARY_ALF_Successful: "一切终于尘埃落定。在多年的背井离乡、多年的颠沛流离、以及多年的南征北战后，在“领袖”的指引下，流亡者们终于达成了她们最终的夙愿。阿里乌斯真正的旗帜如今不仅飘扬在正在重建的阿里乌斯校舍本馆前，还飘扬在圣三一学园中心广场之上，与菲利乌斯、帕特尔和桑库特斯并列。在确凿的事实面前，就算是最死板、最教条的圣三一学生也不得不承认，这些阿里乌斯流亡者重返故土的冒险，可称为伟大的传奇。\n\n诚然，对于重新在基沃托斯取得一席之地的阿里乌斯学生们而言，“阳光下的世界”也不完全是美好的，圣三一的部分成员仍对她们抱有敌意，暂时中止的伊甸条约也必须在接下来的时间里尽快处理。不过，经历了这一切的阿里乌斯学生们都相信一件事，那就是：§G事在人为！§!"
