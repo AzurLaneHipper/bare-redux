@@ -1,4 +1,13 @@
 ALF = "countries/AriusLiberationFront.txt"
-
+HTG	= "countries/HairpinThievesGang.txt"
+AVG	= "countries/AriusVanguard.txt"
+COS	= "countries/ChurchOfSaints.txt" ##圣徒飞升会
+WSG = "countries/WestStreetGang.txt"  ##西街暴力团
+FSC= "countries/FreeSkiesCompany.txt"  ##自由天空 
+DCA = "countries/DebtCollectorsAssociation.txt"  ##收债人协会
+KHG = "countries/KadaHelmetGang.txt"  ##咔哒头盔团
+BMG	= "countries/BlackMarketGuards.txt"  ##黑市安保军
+BMT = "countries/BlackMarketMotorTeam.txt"  ##黑市摩托队
+BMR = "countries/BlackMarketResidentialArea.txt"  ##黑市平民窟
 
 

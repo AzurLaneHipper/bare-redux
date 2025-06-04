@@ -10,8 +10,8 @@ state={
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		owner = E01
-		add_core_of=E01
+		owner = COS
+		add_core_of=COS
 		add_core_of=A47
 		victory_points = {1218 1}
     }

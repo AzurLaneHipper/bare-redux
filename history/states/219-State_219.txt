@@ -9,8 +9,8 @@ state={
 			infrastructure = 3
 			arms_factory = 1
 		}
-		owner = E05
-		add_core_of=E05
+		owner = FSC
+		add_core_of=FSC
 		add_core_of=A47
     }
 	manpower=132000

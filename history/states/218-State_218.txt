@@ -13,8 +13,8 @@ state={
 			arms_factory = 2
 			air_base = 1
 		}
-		owner = E05
-		add_core_of=E05
+		owner = FSC
+		add_core_of=FSC
 		add_core_of=A47
 		victory_points = {6168 1}
     }

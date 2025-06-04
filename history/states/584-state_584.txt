@@ -5,8 +5,8 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		owner = E08
-		add_core_of=E08
+		owner = BMG
+		add_core_of=BMG
 		add_core_of=A47
 
 	}

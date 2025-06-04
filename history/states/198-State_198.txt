@@ -12,8 +12,8 @@ state={
 		victory_points = {
 			11015 2
 		}
-		owner = E01
-		add_core_of=E01
+		owner = COS
+		add_core_of=COS
 		add_core_of=A47
     }
 	manpower=134000

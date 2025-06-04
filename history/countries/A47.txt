@@ -102,15 +102,15 @@ set_popularities = {
 create_faction = "BLACK_MARKET_FACTION"
 
 set_autonomy = {
-	target = E08
-	autonomy_state = autonomy_bare_trusteeship_area
+	target = BMG
+	autonomy_state = autonomy_BlackMarket_subject
 }
 set_autonomy = {
-	target = E09
-	autonomy_state = autonomy_bare_trusteeship_area
+	target = BMT
+	autonomy_state = autonomy_BlackMarket_subject
 }
 set_autonomy = {
-	target = E10
-	autonomy_state = autonomy_bare_trusteeship_area
+	target = BMR
+	autonomy_state = autonomy_BlackMarket_subject
 }
 
