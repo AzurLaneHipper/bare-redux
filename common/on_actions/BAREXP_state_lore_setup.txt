@@ -5,21 +5,21 @@ on_actions = {
 	on_startup = {
 		effect = {
 			# 茶话会
-			118 = { 
-				add_to_array = { 
-					global.state_with_lore = THIS.id 
-				} 
+			#118 = { 
+			#	add_to_array = { 
+			#		global.state_with_lore = THIS.id 
+			#	} 
 				#set_state_flag = SL_has_southern_winter
-			}
-			add_to_array = { 118.lore_entries = 1 }
+			#}
+			#add_to_array = { 118.lore_entries = 1 }
 
 			# 大教堂
-			116 = { 
-				add_to_array = { 
-					global.state_with_lore = THIS.id 
-				} 
+			#116 = { 
+			#	add_to_array = { 
+			#		global.state_with_lore = THIS.id 
+			##	} 
 			}
-			add_to_array = { 116.lore_entries = 2 }
+			#add_to_array = { 116.lore_entries = 2 }
 
 			##青蓝丘
 			199 = { 

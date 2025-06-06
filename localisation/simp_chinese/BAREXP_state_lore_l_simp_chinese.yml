@@ -1,16 +1,16 @@
 ﻿l_simp_chinese:
- SL_open_button_tt: "§Y[THIS.GetSLName]§!区域有重要地点\n--------------\n§G右键按钮§!以在地图上查看其他§Y重要地点§!"
- SL_state_lore_mapicon_tt: "在§Y[FROM.GetSLName]§!区域有重要地点\n--------------\n§G左键点击§!以查看该重要地点\n§G右键点击§!§R关闭§!重要地点预览模式。"
+ #SL_open_button_tt: "§Y[THIS.GetSLName]§!区域有重要地点\n--------------\n§G右键按钮§!以在地图上查看其他§Y重要地点§!"
+ #SL_state_lore_mapicon_tt: "在§Y[FROM.GetSLName]§!区域有重要地点\n--------------\n§G左键点击§!以查看该重要地点\n§G右键点击§!§R关闭§!重要地点预览模式。"
 
  # Notes
  # [GetSLName] is a scripted loc used to get custom names
  # INITIALS are preferably airport codes: for example LAX as Los Angeles, but not when it doesn't make sense, i.e. OPO as Porto. I chose to use POR in that case.
 
- state_lore_name.1: "§Y茶话会§!"
- state_lore_desc.1: "一段很长的描述"
+ #state_lore_name.1: "§Y茶话会§!"
+ #state_lore_desc.1: "一段很长的描述"
 
- state_lore_name.2: "§Y圣三一大教堂§!"
- state_lore_desc.2: "大圣堂是修女们进行宗教仪式的中心。从建设之时起，它就一直是圣三一中最庞大的建筑。从某种意义上，它可以被视作被视为圣三一的象征。「修女会」的本部也设立在此地。"
+ #state_lore_name.2: "§Y圣三一大教堂§!"
+ #state_lore_desc.2: "大圣堂是修女们进行宗教仪式的中心。从建设之时起，它就一直是圣三一中最庞大的建筑。从某种意义上，它可以被视作被视为圣三一的象征。「修女会」的本部也设立在此地。"
 
  state_lore_name.3: "§Y青蓝丘§!"
  state_lore_desc.3: "青蓝丘是一片充满了自然风光的湿地。与基沃托斯多数地方不同，即便工业之火已经熊熊燃烧了许久，这里依然保持着相对原始的风貌。正如学生们在地理课中了解到的那样，青蓝丘没有轰隆作响的工业机器，没有昼夜不停的车水马龙，在这片潮湿的沼泽中，只有飞鸟走兽在活跃。\n\n当然，并非无人尝试更改这里的样貌，在这片区域沦为广为人知的黑市地带之前，就有无数开发商试图在这里攫取利益。但无处不在的飞虫，以及恶劣的生活环境，到头来都让这些计划无疾而终。不法地带扩张最终为这片自然之地做出了盖棺定论，在黑市统治附近的区域之后，此地便再也无人问津——直到今日。\n\n时隔多年后，一群背井离乡的学生再次推开湿地中那处废弃已久的养护站：她们已经准备好在此地扎根，§R不论前路有多少荆棘。§!"
