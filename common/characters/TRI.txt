@@ -67,7 +67,7 @@ characters={
 
         country_leader = {
 			ideology = Progressivism_Trinity_Nagisa_type
-			traits = { mild_leader }
+			traits = { TRI_nagisa_Mild_leader }
 			expire = "9999.1.1.1"
 			id = -1
 		}
