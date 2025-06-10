@@ -679,6 +679,7 @@ recruit_character = TRI_ui2
 
 set_politics = {
 	ruling_party = Progressivism_ideology
+	elections_allowed = no
 }
 set_popularities = {
 	Progressivism_ideology = 55

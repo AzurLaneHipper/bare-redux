@@ -3,7 +3,7 @@ characters = {
 		name = ALF_The_Leader_name
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_ari_1
+				large = GFX_BARE_Portrait_ALF_the_leader_mask
 				#small = GFX_portrait_ARI_atsuko_small
 			}
 			army = {

@@ -110,6 +110,7 @@ recruit_character = ARI_imai_asuka
 
 set_politics = {
 	ruling_party = Mysticism_ideology
+	elections_allowed = no
 }
 set_popularities = {
 	Mysticism_ideology = 75

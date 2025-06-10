@@ -83,6 +83,7 @@ add_ideas = {
 
 set_politics = {
 	ruling_party = Egalitarianism_ideology
+	elections_allowed = no
 }
 set_popularities = {
 	Mysticism_ideology = 10
