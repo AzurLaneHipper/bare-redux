@@ -39,4 +39,9 @@
 			name = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_GEH"
 			texturefile = "gfx/interface/startup_intro/BAREXP_INTRO_MENU_COUNTRY_POSTER_GEH.dds"			
 		}
+
+		SpriteType = {
+			name = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_TRI"
+			texturefile = "gfx/interface/startup_intro/BAREXP_INTRO_MENU_COUNTRY_POSTER_TRI.dds"			
+		}
 	}

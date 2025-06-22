@@ -19,7 +19,6 @@ defined_text = {
 }
 
 
-##格言
 defined_text = {
 	name = GET_BAREXP_ENDGAME_SLOGAN
 	text = {
@@ -27,7 +26,7 @@ defined_text = {
 	}
 }
 
-##国家介绍
+
 defined_text = {
 	name = GET_BAREXP_ENDGAME_SUMMARY
 	text = {
@@ -50,7 +49,6 @@ defined_text = {
 ##按钮
 defined_text = {
 	name = GET_BAREXP_ENDGAME_CONTINUE_BUTTON_TEXT
-	##示例：圣三一战胜了阿里乌斯
 	text = {
 	    localization_key = BAREXP_ENDGAME_CONTINUE_BUTTON_TEXT_DEFAULT
 	}

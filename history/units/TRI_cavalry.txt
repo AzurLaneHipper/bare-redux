@@ -12,12 +12,118 @@ division_template = {
 	}
 }
 
+division_template = {
+	name = "Experimental Armor Regiment"		
+
+	regiments = {
+		medium_armor = {x = 0 y = 0}
+		medium_armor = {x = 0 y = 1}
+		medium_armor = {x = 0 y = 2}
+		medium_armor = {x = 1 y = 0}
+		medium_armor = {x = 1 y = 1}
+		apc_unit = {x = 2 y = 0}
+		apc_unit = {x = 2 y = 1}
+		apc_unit = {x = 2 y = 2}
+		ifv_unit = {x = 3 y = 0}
+		ifv_unit = {x = 3 y = 1}
+	}
+	support = {
+		#military_police = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Air Assault Company"		
+
+	regiments = {
+		air_assest_unit = {x = 0 y = 0}
+		air_assest_unit = {x = 0 y = 1}
+		air_assest_unit = {x = 1 y = 0}
+		air_assest_unit = {x = 1 y = 1}
+	}
+	support = {
+		#military_police = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Air Attack Company"		
+
+	regiments = {
+		air_attack_unit = {x = 0 y = 0}
+		air_attack_unit = {x = 0 y = 1}
+		air_attack_unit = {x = 1 y = 0}
+		air_attack_unit = {x = 1 y = 1}
+	}
+	support = {
+		#military_police = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Special Service Combat Group"		
+
+	regiments = {
+		infantry_sf = {x = 0 y = 0}
+		infantry_sf = {x = 0 y = 1}
+		infantry_sf = {x = 1 y = 0}
+		infantry_sf = {x = 1 y = 1}
+	}
+	support = {
+		#military_police = { x = 0 y = 0 }
+	}
+}
+
 units = {
 	division= {	 #一个师
 		name = "近卫骑兵连『菲利乌斯』"
 		location = 11664
 		division_template = "Tea Party Honor Guards" #这个师用的编制的名字
-		start_experience_factor = 0.5 #初始经验0-1 ,0.2为银牌
+		start_experience_factor = 0.9 #初始经验0-1 ,0.2为银牌
+		start_equipment_factor = 1 #初始装备 0-1
+		start_manpower_factor = 1 #初始人力 0-1
+	}
+}
+
+units = {
+	division= {	 #一个师
+		name = "近卫空突连『皇家指令』"
+		location = 11664
+		division_template = "Air Assault Company" #这个师用的编制的名字
+		start_experience_factor = 0.9 #初始经验0-1 ,0.2为银牌
+		start_equipment_factor = 1 #初始装备 0-1
+		start_manpower_factor = 1 #初始人力 0-1
+	}
+}
+
+units = {
+	division= {	 #一个师
+		name = "第1陆航营 『南船座』"
+		location = 7685
+		division_template = "Air Attack Company" #这个师用的编制的名字
+		start_experience_factor = 0.9 #初始经验0-1 ,0.2为银牌
+		start_equipment_factor = 1 #初始装备 0-1
+		start_manpower_factor = 1 #初始人力 0-1
+	}
+}
+
+units = {
+	division= {	 #一个师
+		name = "特种突击队『布莱切利庄园』"
+		location = 7685
+		division_template = "Special Service Combat Group" #这个师用的编制的名字
+		start_experience_factor = 0.9 #初始经验0-1 ,0.2为银牌
+		start_equipment_factor = 1 #初始装备 0-1
+		start_manpower_factor = 1 #初始人力 0-1
+	}
+}
+
+units = {
+	division= {	 #一个师
+		name = "装甲实验部队『钢铁圣堂』"
+		location = 7685
+		division_template = "Experimental Armor Regiment" #这个师用的编制的名字
+		start_experience_factor = 0.9 #初始经验0-1 ,0.2为银牌
 		start_equipment_factor = 1 #初始装备 0-1
 		start_manpower_factor = 1 #初始人力 0-1
 	}

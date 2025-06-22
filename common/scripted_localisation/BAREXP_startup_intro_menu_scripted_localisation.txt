@@ -16,6 +16,12 @@ defined_text = {
 		}
         localization_key = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_GEH"
     }
+	text = { 
+        trigger = {
+			tag = TRI
+		}
+        localization_key = "GFX_BAREXP_INTRO_MENU_COUNTRY_POSTER_TRI"
+    }
 }
 ##国家介绍
 defined_text = {
@@ -32,6 +38,13 @@ defined_text = {
 			tag = GEH
 		}
 		localization_key = BAREXP_COUNTRY_SUMMARY_GEH
+	}
+
+	text = {
+		trigger = {
+			tag = TRI
+		}
+		localization_key = BAREXP_COUNTRY_SUMMARY_TRI
 	}
 	
 	text = {
@@ -55,6 +68,13 @@ defined_text = {
 		}
 		localization_key = BAREXP_COUNTRY_TARGET_GEH
 	}
+
+	text = {
+		trigger = {
+			tag = TRI
+		}
+		localization_key = BAREXP_COUNTRY_TARGET_TRI
+	}
 	
 	text = {
 	    localization_key = BAREXP_COUNTRY_TARGET_DEFAULT
@@ -77,6 +97,13 @@ defined_text = {
 		}
 		localization_key = BAREXP_COUNTRY_PATHS_GEH
 	}
+
+	text = {
+		trigger = {
+			tag = TRI
+		}
+		localization_key = BAREXP_COUNTRY_PATHS_TRI
+	}
 	
 	text = {
 	    localization_key = BAREXP_COUNTRY_PATHS_DEFAULT
@@ -86,7 +113,6 @@ defined_text = {
 ##按钮
 defined_text = {
 	name = GET_BAREXP_CONTINUE_BUTTON_TEXT
-	##示例：圣三一战胜了阿里乌斯
 	text = {
 		trigger = {
 			tag = ALF
@@ -99,6 +125,13 @@ defined_text = {
 			tag = GEH
 		}
 		localization_key = BAREXP_CONTINUE_BUTTON_TEXT_GEH
+	}
+
+	text = {
+		trigger = {
+			tag = TRI
+		}
+		localization_key = BAREXP_CONTINUE_BUTTON_TEXT_TRI
 	}
 	
 	text = {
