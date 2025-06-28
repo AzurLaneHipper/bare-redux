@@ -39,4 +39,22 @@ BAREXP_Test_categories = {
 			}
 		}
 	}
+
+	BAREXP_show_superevent1_gui = {
+		visible = {
+			always = yes
+		}
+		complete_effect = {
+		    BSE_Fire_Super_Event_index_1 = yes
+		}
+	}
+
+	BAREXP_show_superevent2_gui = {
+		visible = {
+			always = yes
+		}
+		complete_effect = {
+		    BSE_Fire_Super_Event_index_2 = yes
+		}
+	}
 } 

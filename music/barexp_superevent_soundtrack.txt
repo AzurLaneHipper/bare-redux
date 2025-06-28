@@ -1,0 +1,9 @@
+music_station = "barexp_superevent"
+
+music = {
+	song = "BSP_Live_Gloriously"
+}
+
+music = {
+	song = "BSP_The_Battle_on_Ice_Short"
+}

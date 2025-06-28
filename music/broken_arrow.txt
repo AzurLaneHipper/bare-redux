@@ -1,0 +1,172 @@
+music_station = "broken_arrow"
+
+music = {
+	song = "A_Silent_Blow"
+}
+
+music = {
+	song = "Acid_Horns"
+}
+
+music = {
+	song = "All_Those_Nukes"
+}
+
+music = {
+	song = "An_Idea_for_an_Ambush"
+}
+
+music = {
+	song = "Avia_Mode"
+}
+
+music = {
+	song = "Battle_1"
+}
+
+music = {
+	song = "Burning_Gasoline"
+}
+
+music = {
+	song = "Command_Master"
+}
+
+music = {
+	song = "Deadly_Zones"
+}
+
+music = {
+	song = "Defcon_Alpha"
+}
+
+#
+
+music = {
+	song = "Eastern_Fist"
+}
+
+music = {
+	song = "Hangar"
+}
+
+music = {
+	song = "Kill_Em_All"
+}
+
+music = {
+	song = "Mountain_Tactical"
+}
+
+music = {
+	song = "Night_Katka"
+}
+
+music = {
+	song = "On_the_Run"
+}
+
+music = {
+	song = "Operations_Above"
+}
+
+music = {
+	song = "Operations_Below"
+}
+
+music = {
+	song = "Pedal_to_the_Metal"
+}
+
+music = {
+	song = "Reconroll"
+}
+
+#
+
+music = {
+	song = "Rhino_Battle"
+}
+
+music = {
+	song = "Rocket_Science"
+}
+
+music = {
+	song = "Rotation"
+}
+
+music = {
+	song = "Salute"
+}
+
+music = {
+	song = "Samara_Eater"
+}
+
+music = {
+	song = "Sea_Assault"
+}
+
+music = {
+	song = "The_Barrage"
+}
+
+music = {
+	song = "The_Encounter"
+}
+
+music = {
+	song = "The_First_Mile"
+}
+
+music = {
+	song = "The_Fury"
+}
+
+#
+
+music = {
+	song = "The_Geiger_Case"
+}
+
+music = {
+	song = "The_Iron_March"
+}
+
+music = {
+	song = "The_Punisher"
+}
+
+music = {
+	song = "The_Underground"
+}
+
+music = {
+	song = "This_War_Is"
+}
+
+music = {
+	song = "Timbers"
+}
+
+music = {
+	song = "Warlord"
+}
+
+music = {
+	song = "Western_Parade"
+}
+
+music = {
+	song = "Warzone"
+}
+
+music = {
+	song = "Winter_Reaper"
+}
+
+music = {
+	song = "Withdrawal"
+}
+

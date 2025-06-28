@@ -1,0 +1,11 @@
+music = {
+	name = "BSP_Live_Gloriously"
+	file = "barexp_superevent/BSP_Live_Gloriously.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "BSP_The_Battle_on_Ice_Short"
+	file = "barexp_superevent/BSP_The_Battle_on_Ice_Short.ogg"
+	volume = 0.8
+}

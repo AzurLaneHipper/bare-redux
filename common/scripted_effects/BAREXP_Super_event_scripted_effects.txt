@@ -1,0 +1,20 @@
+###时间
+    BSE_Fire_Super_Event_index_1 = {
+        set_variable = {
+            barexp_super_event_index = 1
+        }
+        scoped_play_song = "BSP_Live_Gloriously"
+    }
+
+    BSE_Fire_Super_Event_index_2 = {
+        set_variable = {
+            barexp_super_event_index = 2
+        }
+        scoped_play_song = "BSP_The_Battle_on_Ice_Short"
+    }
+
+    BSE_Close_Super_Event_Effect = {
+        set_variable = {
+            barexp_super_event_index = 0
+        }
+    }

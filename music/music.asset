@@ -2,7 +2,7 @@
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "warno/warno_Digital_Warfare.ogg"
+	file = "broken_arrow/Samara_Eater.ogg"
 	volume = 0.65
 }
 

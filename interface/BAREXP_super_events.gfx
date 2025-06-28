@@ -1,0 +1,21 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_BARE_super_event_background"
+		texturefile = "gfx/interface/super_event/BAREXP_super_event_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_BAREXP_super_event_close_button"
+		texturefile = "gfx/interface/super_event/BAREXP_super_event_close_button.dds"
+	}
+
+	spriteType = {
+		name = "GFX_BAREXP_SE_img_1"
+		texturefile = "gfx/interface/super_event/BAREXP_SE_img_1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_BAREXP_SE_img_2"
+		texturefile = "gfx/interface/super_event/BAREXP_SE_img_2.dds"
+	}
+}

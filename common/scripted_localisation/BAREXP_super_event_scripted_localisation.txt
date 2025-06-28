@@ -1,0 +1,40 @@
+# 1) TITLE
+# 2) DESCRIPTION
+# 3）MISC
+
+################
+### 1) TITLE ###
+################
+
+defined_text = {
+	name = BAREXP_Super_Event_Get_Title
+	text = {
+		localization_key = BAREXP_SE_Title.[?barexp_super_event_index]
+	}
+}
+
+######################
+### 2) Quote and Remark ###
+######################
+defined_text = {
+	name = BAREXP_Super_Event_Get_Quote
+	text = {
+		localization_key = BAREXP_SE_Quote.[?barexp_super_event_index]
+	}
+}
+defined_text = {
+	name = BAREXP_Super_Event_Get_Remark
+	text = {
+		localization_key = BAREXP_SE_Remark.[?barexp_super_event_index]
+	}
+}
+
+######################
+### 3) Image ###
+######################
+defined_text = {
+	name = BAREXP_Super_Event_Get_Image
+	text = {
+		localization_key = GFX_BAREXP_SE_img_[?barexp_super_event_index]
+	}
+}

@@ -1,0 +1,251 @@
+##### Broken Arrow
+music = {
+	name = "A_Silent_Blow"
+	file = "broken_arrow/A_Silent_Blow.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Acid_Horns"
+	file = "broken_arrow/Acid_Horns.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "All_Those_Nukes"
+	file = "broken_arrow/All_Those_Nukes.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "An_Idea_for_an_Ambush"
+	file = "broken_arrow/An_Idea_for_an_Ambush.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Avia_Mode"
+	file = "broken_arrow/Avia_Mode.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Battle_1"
+	file = "broken_arrow/Battle_1.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Burning_Gasoline"
+	file = "broken_arrow/Burning_Gasoline.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Command_Master"
+	file = "broken_arrow/Command_Master.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Deadly_Zones"
+	file = "broken_arrow/Deadly_Zones.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Defcon_Alpha"
+	file = "broken_arrow/Defcon_Alpha.ogg"
+	volume = 0.8
+}
+
+#
+music = {
+	name = "Eastern_Fist"
+	file = "broken_arrow/Eastern_Fist.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Hangar"
+	file = "broken_arrow/Hangar.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Kill_Em_All"
+	file = "broken_arrow/Kill_Em_All.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Mountain_Tactical"
+	file = "broken_arrow/Mountain_Tactical.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Night_Katka"
+	file = "broken_arrow/Night_Katka.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "On_the_Run"
+	file = "broken_arrow/On_the_Run.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Operations_Above"
+	file = "broken_arrow/Operations_Above.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Operations_Below"
+	file = "broken_arrow/Operations_Below.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Pedal_to_the_Metal"
+	file = "broken_arrow/Pedal_to_the_Metal.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Reconroll"
+	file = "broken_arrow/Reconroll.ogg"
+	volume = 0.8
+}
+
+#
+
+music = {
+	name = "Rhino_Battle"
+	file = "broken_arrow/Rhino_Battle.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Rocket_Science"
+	file = "broken_arrow/Rocket_Science.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Rotation"
+	file = "broken_arrow/Rotation.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Salute"
+	file = "broken_arrow/Salute.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Samara_Eater"
+	file = "broken_arrow/Samara_Eater.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Sea_Assault"
+	file = "broken_arrow/Sea_Assault.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Barrage"
+	file = "broken_arrow/The_Barrage.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Encounter"
+	file = "broken_arrow/The_Encounter.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_First_Mile"
+	file = "broken_arrow/The_First_Mile.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Fury"
+	file = "broken_arrow/The_Fury.ogg"
+	volume = 0.8
+}
+
+#
+
+music = {
+	name = "The_Geiger_Case"
+	file = "broken_arrow/The_Geiger_Case.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Iron_March"
+	file = "broken_arrow/The_Iron_March.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Punisher"
+	file = "broken_arrow/The_Punisher.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "The_Underground"
+	file = "broken_arrow/The_Underground.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "This_War_Is"
+	file = "broken_arrow/This_War_Is.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Timbers"
+	file = "broken_arrow/Timbers.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Warlord"
+	file = "broken_arrow/Warlord.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Western_Parade"
+	file = "broken_arrow/Western_Parade.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Warzone"
+	file = "broken_arrow/Warzone.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Winter_Reaper"
+	file = "broken_arrow/Winter_Reaper.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Withdrawal"
+	file = "broken_arrow/Withdrawal.ogg"
+	volume = 0.8
+}
