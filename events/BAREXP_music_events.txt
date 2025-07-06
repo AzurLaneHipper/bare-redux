@@ -1,0 +1,17 @@
+add_namespace = BAREXP_music
+
+##格赫娜
+country_event = {
+	id = BAREXP_music.1
+	#picture = GFX_common_event_gui_test
+	hidden = yes
+	is_triggered_only = yes
+
+	immediate = {
+		scoped_play_song = "BSP_Alexandermarsch"
+	}
+
+	option = {
+		name = BAREXP_music.1.a
+	}
+}

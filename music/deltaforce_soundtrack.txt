@@ -16,9 +16,10 @@ music = {
 	song = "Making_Legends"
 }
 
-music = {
-	song = "Operation_Protector"
-}
+##太长了，不将本曲纳入播放列表
+#music = {
+#	song = "Operation_Protector"
+#}
 
 music = {
 	song = "Journey_s_Epic_Highpeak"

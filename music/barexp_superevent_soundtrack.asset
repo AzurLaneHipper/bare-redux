@@ -9,3 +9,15 @@ music = {
 	file = "barexp_superevent/BSP_The_Battle_on_Ice_Short.ogg"
 	volume = 0.8
 }
+
+music = {
+	name = "BSP_One_Last_Adventure"
+	file = "barexp_superevent/BSP_One_Last_Adventure.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "BSP_Alexandermarsch"
+	file = "barexp_superevent/BSP_Alexandermarsch.ogg"
+	volume = 0.8
+}

@@ -1,0 +1,17 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_country = {
+				limit = {
+					OR = {
+                        tag = GEH
+						is_subject_of = GEH
+					}
+				}
+				country_event = {
+					id = BAREXP_music.1
+				}
+			}
+		}
+	}
+}
