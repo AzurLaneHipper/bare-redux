@@ -13,6 +13,27 @@
         scoped_play_song = "BSP_The_Battle_on_Ice_Short"
     }
 
+    BSE_Fire_Super_Event_index_3 = {
+        set_variable = {
+            barexp_super_event_index = 3
+        }
+        #scoped_play_song = "BSP_The_Battle_on_Ice_Short"
+    }
+    
+    BSE_Fire_Super_Event_index_4 = {
+        set_variable = {
+            barexp_super_event_index = 4
+        }
+        #scoped_play_song = "BSP_The_Battle_on_Ice_Short"
+    }
+
+    BSE_Fire_Super_Event_index_5 = {
+        set_variable = {
+            barexp_super_event_index = 5
+        }
+        #scoped_play_song = "BSP_The_Battle_on_Ice_Short"
+    }
+
     BSE_Close_Super_Event_Effect = {
         set_variable = {
             barexp_super_event_index = 0
